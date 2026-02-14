@@ -247,8 +247,10 @@ AudioSandbox/
 
 ## License
 
-[Specify your license here]
+(no licenses to be displayed as of yet)
 
 ## Author
-
+Mason(Azazel)
+up and coming developer/engineer
 Audio Sandbox Framework for Physics-Driven Procedural Audio
+
